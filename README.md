@@ -11,7 +11,7 @@ import java.util.Arrays;
 
 ```Java
 String[]array={"Hello","Dineth"};
-        ArrayList arrayList=Arr.toList(array);
+ArrayList arrayList=Arr.toList(array);
 ```
 
 ### Convert ArrayList<> to Array[] use,
